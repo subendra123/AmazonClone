@@ -1,0 +1,1 @@
+DATABASE = "mongodb+srv://anjan:anjan123@cluster0.l3uaxnd.mongodb.net/Amazonwebs?retryWrites=true&w=majority";
